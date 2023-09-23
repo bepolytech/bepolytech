@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+<img src="https://github.com/bepolytech/bepolytech/assets/58170258/9b4afa29-f2d7-4e1d-b281-73a4a385d2d1" width=400px>
+
 <!--
+
+![306336452_5775691302442211_9200286166017787041_n](https://github.com/bepolytech/bepolytech/assets/58170258/9b4afa29-f2d7-4e1d-b281-73a4a385d2d1)
+
 **bepolytech/bepolytech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
